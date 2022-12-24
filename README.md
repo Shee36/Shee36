@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sherry
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning SQL,R,PYTHON
+- 👀 I’m interested in data analytics, data science, AI
+- 🌱 I’m currently proficient in SQL,R,PYTHON
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
